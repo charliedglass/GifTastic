@@ -1,0 +1,16 @@
+body{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+}
+
+.btn{
+    font-weight: bold;
+    color: white;
+    background-color: #47999b;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#hero-input-head{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
